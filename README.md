@@ -1,0 +1,7 @@
+# xvideoscrapy
+根据url下载xvideo视频
+
+
+将视频url放到倒数第四行的urls里面即可，另外要将big_path改成自己的视频下载位置，之后运行即可下载该视频，名字为当前时间.mp4
+
+如果嫌不清晰，可以将40行的setVideoUrlLow改成setVideoUrlHigh，从js里面就发现这两个可供下载的链接。
